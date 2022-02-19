@@ -21,8 +21,8 @@ class Menu extends HTMLElement {
                   <i class="fad fa-book"></i> CURSOS
               </a>
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <li><a class="dropdown-item" href="cursos/trigonometría-preuniversitaria.html"><i class="fas fa-ruler-triangle"></i> Trigonometría Pre</a></li>
-                <li><a class="dropdown-item" href="cursos/razonamiento-matematico-preuniversitario.html"><i class="fad fa-dice"></i> Raz. Matemático Pre</a></li>
+                <li><a class="dropdown-item" href="/cursos/trigonometría-preuniversitaria.html"><i class="fas fa-ruler-triangle"></i> Trigonometría Pre</a></li>
+                <li><a class="dropdown-item" href="/cursos/razonamiento-matematico-preuniversitario.html"><i class="fad fa-dice"></i> Raz. Matemático Pre</a></li>
                 <li><hr class="dropdown-divider"></li>
                 <li><a class="dropdown-item" href="#"> <i class="fab fa-youtube" style="color: #e92019;"></i> Canal YouTube</a></li>
               </ul>
