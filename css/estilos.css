@@ -1,0 +1,14 @@
+
+.fondo{
+    background-image: url(/img/Portada\ de\ educacion.jpg);
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+}
+.portada{
+    height: 580px;
+    
+}
+.lineahorizontal{
+    height: 20px;
+}
