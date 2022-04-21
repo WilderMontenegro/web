@@ -37,7 +37,7 @@ class Menu extends HTMLElement {
                 <li><a class="dropdown-item" href="/cursos/razonamiento-matematico-preuniversitario"><i class="fad fa-dice"></i> Raz. Matemático Pre</a></li>
                 <li><hr class="dropdown-divider"></li>
                 <li><a class="dropdown-item" href="https://www.youtube.com/c/WilderMontenegro" Target="_blank"> <i class="fab fa-youtube" style="color: #e92019;"></i> Canal YouTube</a></li>
-                <li><a class="dropdown-item" href="/cermat-school.html" Target="_blank"> <i class="fad fa-school"  style="color: #030a64;"></i> Cermat School</a></li>
+                <li><a class="dropdown-item" href="/Cermat-Shool.html" Target="_blank"> <i class="fad fa-school"  style="color: #030a64;"></i> Cermat School</a></li>
               </ul>
             </li>
 
